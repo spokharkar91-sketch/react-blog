@@ -1,4 +1,44 @@
 .suyash{
   background-color: pink;
+  padding: 50px;
+  margin: 100px 200px 300px 200px;
   text-align: center;
+  border: 2px solid black
 }
+.dis{
+  border: 2px solid black;
+  margin-left: 200px;
+  margin-right: 200px;
+  background-color: aqua;
+}
+
+.butt1{
+  border:black;
+  border-radius: 10%;
+  padding: 10px;
+  background-color: rgb(212, 5, 5);
+  margin-right: 5px;
+   border: 2px solid black;
+  font-size: large;
+}
+.butt2{
+  border:rgb(1, 69, 37);
+  border-radius: 10%;
+  background-color:rgb(18, 178, 18);
+  padding: 10px;
+  margin-left: 5px;
+  border: 2px solid black;
+  font-size: large;
+}
+
+.butt3{
+  border:2px black;
+  border-radius: 10%;
+  background-color:rgb(184, 22, 103);
+  padding: 10px;
+  margin-left: 5px;
+ border: 2px solid black;
+  font-size: large;
+}
+
+  

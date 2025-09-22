@@ -1,15 +1,10 @@
 import { useState } from 'react'
 import './App.css'
-
-
-function Header(){
-  return<h1 class="suyash">Hello React</h1>;
-}
-
+import Counter from './Counter'
 function App() {
   return (
     <>
-      <Header/>
+      <Counter/>
     </>
   )
 }
